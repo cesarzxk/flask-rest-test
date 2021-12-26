@@ -16,7 +16,7 @@ This project was developed with the following technologies:
 
 First, creat the Virtual Environments:
 
--[Installation](https://flask.palletsprojects.com/en/2.0.x/installation/))
+-[Installation](https://flask.palletsprojects.com/en/2.0.x/installation/)
 
 Second, you need install the dependencies in venv:
 
