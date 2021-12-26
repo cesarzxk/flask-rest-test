@@ -1,5 +1,5 @@
 # flask-rest-test
- Repositório de testes usando flask_restx.
+ Repositório de testes usando flask-restx.
  
 ## :rocket: Technologies
 
